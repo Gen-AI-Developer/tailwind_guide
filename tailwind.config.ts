@@ -11,6 +11,7 @@ const config: Config = {
       'primary': '#303633',
       'secondary': '#8CE8CB',
       'accent': '#8CE8CB',
+      'white': '#FFFFFF'
 
     },
     extend: {
