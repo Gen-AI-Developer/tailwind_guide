@@ -18,7 +18,7 @@ export default function Home() {
             <div className="flex  flex-row justify-center">
               <h1 className="font-bold pl-8 text-primary text-2xl">EasyTailwindGuide</h1>
               <div className="">
-                <div className="flex  bg-primary items-end gap-2 md:gap-8">
+                <div className="flex align-baseline bg-primary items-end gap-2 md:gap-8">
                   <Link href="">Home</Link>
                   <Link href="">Components</Link>
                   <Link href="">Blog</Link>
