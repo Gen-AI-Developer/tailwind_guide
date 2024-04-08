@@ -1,0 +1,11 @@
+{
+  "name": "tailwind_guide",
+  "version": "1.0.0",
+  "description": "This is Simple Project Execrising Tailwind CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Safdar Ali Shha",
+  "license": "MIT"
+}
